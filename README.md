@@ -299,7 +299,7 @@ class Leaf(Component):
 
 运行fje/data/sample.json
 
-![1718926391086](image/21307129_毕泽同_进阶DesignPattern习题/1718926391086.png)
+![1718926391086](image/sample运行截图.png)
 
 ```txt
 ┌─♤oranges ────────────────────────────┐
